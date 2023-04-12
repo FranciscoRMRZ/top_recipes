@@ -1,0 +1,20 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: black;
+  color: darkgray;
+}
+
+a:link {
+  color: cyan;
+}
+
+a:visited {
+  color: violet;
+}
+
+img {
+  width: auto;
+}
